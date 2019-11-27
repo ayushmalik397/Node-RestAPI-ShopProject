@@ -1,0 +1,13 @@
+Nodemon- nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected. ... nodemon is a replacement wrapper for node , to use nodemon replace the word node on the command line when executing your script.
+
+Morgan- Morgan is a HTTP request logger middleware for Node.js. It simplifies the process of logging requests to your application. You might think of Morgan as a helper that generates request logs.
+
+body-parser- To handle HTTP POST request in Express.js version 4 and above, you need to install middleware module.
+
+CORS- Cross Origin Resource Sharing(Sending & Receiving between different resourse or localhosts)
+
+multer- Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
+
+nodebcrypt- to hash password
+
+node-jsonwebtoken- to return(generate) token
